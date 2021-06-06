@@ -1,0 +1,9 @@
+{
+	"ip":"fi1.multyhost.xyz",
+	"port": 3003
+	"name": "afkbotplzignore",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (Hitisk@smp(remember_no_spaces)) (Hitisk@smp(remember_no_spaces))",
+	"login-cmd":"/login (Hitisk@smp)"
+}
